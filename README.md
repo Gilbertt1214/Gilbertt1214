@@ -42,55 +42,6 @@
   </a>
 </p>
 
-## 🎧 Music Profile
-
-<div align="center">
-
-### last jammed out to
-<a href="https://open.spotify.com/user/xdd66kgxgvpcy162as8owo5rn">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=xdd66kgxgvpcy162as8owo5rn&count=1" alt="Spotify Recently Played" width="400"/>
-</a>
-
-<br/>
-
-<table>
-  <tr>
-    <td align="center"><b>all time favorites</b></td>
-    <td align="center"><b>monthly favorites</b></td>
-    <td align="center"><b>current favorites</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b4e723381a171d182245b73f" width="80" style="border-radius:10px;"/><br/>
-      <b>Evaluasi</b><br/>Hindia
-    </td>
-    <td align="center">
-      <img src="https://i.scdn.co/image/ab67616d0000b273b06e23b2dc95f5ad30a9159f" width="80" style="border-radius:10px;"/><br/>
-      <b>Bertaut</b><br/>Nadin Amizah
-    </td>
-    <td align="center">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a0a4c000dfb428d09aa1eeb5" width="80" style="border-radius:10px;"/><br/>
-      <b>Monokrom</b><br/>Tulus
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://i.scdn.co/image/ab67616d0000b273bc9dfce5d11598ce3a033527" width="80" style="border-radius:10px;"/><br/>
-      <b>To The Bone</b><br/>Pamungkas
-    </td>
-    <td align="center">
-      <img src="https://i.scdn.co/image/ab67616d0000b2739dcdd28e57201c107297e6be" width="80" style="border-radius:10px;"/><br/>
-      <b>Sebuah Kisah Klasik</b><br/>Sheila On 7
-    </td>
-    <td align="center">
-      <img src="https://i.scdn.co/image/ab67616d0000b273a388e404b901a09d3da7793d" width="80" style="border-radius:10px;"/><br/>
-      <b>Rehat</b><br/>Kunto Aji
-    </td>
-  </tr>
-</table>
-
-</div>
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Gilbertt1214&theme=radical&no-frame=false&no-bg=false&margin-w=4)
