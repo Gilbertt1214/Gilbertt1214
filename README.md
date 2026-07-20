@@ -60,30 +60,30 @@
     <td align="center"><b>current favorites</b></td>
   </tr>
   <tr>
-    <td>
-      <img src="https://upload.wikimedia.org/wikipedia/id/3/3a/Hindia_-_Menari_dengan_Bayangan.jpg" width="60" align="left"/>
+    <td align="center">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b4e723381a171d182245b73f" width="80" style="border-radius:10px;"/><br/>
       <b>Evaluasi</b><br/>Hindia
     </td>
-    <td>
-      <img src="https://upload.wikimedia.org/wikipedia/id/5/5a/Nadin_Amizah_-_Selamat_Ulang_Tahun.png" width="60" align="left"/>
+    <td align="center">
+      <img src="https://i.scdn.co/image/ab67616d0000b273b06e23b2dc95f5ad30a9159f" width="80" style="border-radius:10px;"/><br/>
       <b>Bertaut</b><br/>Nadin Amizah
     </td>
-    <td>
-      <img src="https://upload.wikimedia.org/wikipedia/en/2/23/Tulus_-_Monokrom.jpeg" width="60" align="left"/>
+    <td align="center">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a0a4c000dfb428d09aa1eeb5" width="80" style="border-radius:10px;"/><br/>
       <b>Monokrom</b><br/>Tulus
     </td>
   </tr>
   <tr>
-    <td>
-      <img src="https://upload.wikimedia.org/wikipedia/en/b/b3/Pamungkas_-_Walk_The_Talk.jpeg" width="60" align="left"/>
+    <td align="center">
+      <img src="https://i.scdn.co/image/ab67616d0000b273bc9dfce5d11598ce3a033527" width="80" style="border-radius:10px;"/><br/>
       <b>To The Bone</b><br/>Pamungkas
     </td>
-    <td>
-      <img src="https://upload.wikimedia.org/wikipedia/en/d/df/Sheila_on_7_-_Kisah_Klasik_Untuk_Masa_Depan.jpg" width="60" align="left"/>
+    <td align="center">
+      <img src="https://i.scdn.co/image/ab67616d0000b2739dcdd28e57201c107297e6be" width="80" style="border-radius:10px;"/><br/>
       <b>Sebuah Kisah Klasik</b><br/>Sheila On 7
     </td>
-    <td>
-      <img src="https://upload.wikimedia.org/wikipedia/en/8/87/Kunto_Aji_-_Mantra_Mantra.jpeg" width="60" align="left"/>
+    <td align="center">
+      <img src="https://i.scdn.co/image/ab67616d0000b273a388e404b901a09d3da7793d" width="80" style="border-radius:10px;"/><br/>
       <b>Rehat</b><br/>Kunto Aji
     </td>
   </tr>
