@@ -15,7 +15,7 @@
 
 
 
-# 💫About Me :
+# About Me:
 🔹 Hi there! I'm Fahriana Nurzukhruf.
 🎓 A student at Universitas Banten Jaya, majoring in Informatics Engineering.
 💻 Passionate about Software Development & Technology.
@@ -25,17 +25,17 @@
 
 🔗 Let's connect and grow together! 😊
 
-## 🌐Socials
+## Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](fahriiiiuuuuu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fahnzuk)
 
-# 🎧 Spotify - Recently Played
+# Spotify - Recently Played
 <div align="center">
   <a href="https://open.spotify.com/user/xdd66kgxgvpcy162as8owo5rn">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=xdd66kgxgvpcy162as8owo5rn&count=5" alt="Spotify Recently Played" width="400"/>
   </a>
 </div>
 
-# 💻 Tech Stack
+# Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=dart,js,php,ts,threejs,react,flutter,mysql&perline=8&theme=dark" />
@@ -43,14 +43,14 @@
 </p>
 
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Gilbertt1214&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-## 🐍 Contribution Snake
+## Contribution Snake
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gilbertt1214/Gilbertt1214/output/github-contribution-grid-snake-dark.svg">
