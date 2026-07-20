@@ -22,14 +22,18 @@
 🔗 Let's connect and grow together! 😊
 
 ## 🌐Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](fahriiiiuuuuu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fahnzuk) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](fahriiiiuuuuu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fahnzuk)
 
 # 💻Tech Stack
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  	
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Gilbertt1214&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Gilbertt1214&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gilbertt1214&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+## 🎧 Spotify - Recently Played
+<div align="center">
+  <a href="https://open.spotify.com/user/xdd66kgxgvpcy162as8owo5rn">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=xdd66kgxgvpcy162as8owo5rn&count=5" alt="Spotify Recently Played" width="400"/>
+  </a>
+</div>
+
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Gilbertt1214&theme=radical&no-frame=false&no-bg=false&margin-w=4)
