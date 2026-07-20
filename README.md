@@ -6,51 +6,86 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="600" height="350">
 </p>
 
-
-
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=25&pause=500&color=0084FF&center=true&vCenter=true&width=500&height=50&lines=Hi!;I'm+Fahriana+Nurzukhruf;Software+Engineer;Fullstack+Developer;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=25&pause=500&color=FE428E&center=true&vCenter=true&width=600&height=50&lines=Hi!+I'm+Fahriana+Nurzukhruf;Software+Engineer;Fullstack+Developer;AI+and+Cybersecurity+Enthusiast" alt="Typing SVG" />
 </div>
 
+<br>
 
+<h2 align="center">About Me</h2>
 
+Hi there, I'm Fahriana Nurzukhruf — a Software Engineer and Fullstack Developer.
 
-# About Me:
-🔹 Hi there! I'm Fahriana Nurzukhruf.
-🎓 A student at Universitas Banten Jaya, majoring in Informatics Engineering.
-💻 Passionate about Software Development & Technology.
-🌍 Currently learning English to expand my global opportunities.
-🚀 Interested in Fullstack Development, AI, and Cybersecurity.
-📚 Always eager to learn and explore new tech!
+- Studying Informatics Engineering at Universitas Banten Jaya
+- Passionate about software development and building things that work well
+- Currently improving my English to unlock more global opportunities
+- Focused on Fullstack Development, Artificial Intelligence, and Cybersecurity
+- Always learning and exploring new technologies
 
-🔗 Let's connect and grow together! 😊
+Feel free to connect — I'm always glad to collaborate and learn together.
 
-## Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](fahriiiiuuuuu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fahnzuk)
+<br>
 
-# Spotify - Recently Played
-<div align="center">
-  <a href="https://open.spotify.com/user/xdd66kgxgvpcy162as8owo5rn">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=xdd66kgxgvpcy162as8owo5rn&count=5" alt="Spotify Recently Played" width="400"/>
-  </a>
-</div>
+<h2 align="center">Tech Stack</h2>
 
-# Tech Stack
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,js,php,ts,threejs,react,flutter,mysql&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=dart,js,ts,php,react,flutter,threejs,mysql&perline=8&theme=dark" />
+</p>
+  
+<br>
+
+<h2 align="center">Connect With Me</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Discord-fahriiiiuuuuu-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://instagram.com/fahnzuk">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
+<br>
 
-## GitHub Trophies
-![](https://github-trophies.vercel.app/?username=Gilbertt1214&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<h2 align="center">GitHub Stats</h2>
 
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Gilbertt1214&show_icons=true&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gilbertt1214&layout=compact&theme=radical&hide_border=true" width="49%" />
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Gilbertt1214&theme=radical&hide_border=true" />
+</p>
 
-## Contribution Snake
+<br>
+
+<h2 align="center">GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=Gilbertt1214&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+</p>
+
+<br>
+
+<h2 align="center">Spotify — Recently Played</h2>
+
+<p align="center">
+  <a href="https://open.spotify.com/user/xdd66kgxgvpcy162as8owo5rn">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=xdd66kgxgvpcy162as8owo5rn&count=5" alt="Spotify Recently Played" width="400"/>
+  </a>
+</p>
+
+<br>
+
+<h2 align="center">Random Dev Quote</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+<br>
+
+<h2 align="center">Contribution Snake</h2>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gilbertt1214/Gilbertt1214/output/github-contribution-grid-snake-dark.svg">
@@ -63,5 +98,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=Gilbertt1214&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Gilbertt1214&icon=0&color=0" alt="Visitor Count" />
+  </a>
+</p>
