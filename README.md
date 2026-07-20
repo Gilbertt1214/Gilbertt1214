@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" width="100%"/>
+</p>
+
+<p align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="600" height="350">
 </p>
 
@@ -24,23 +28,89 @@
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](fahriiiiuuuuu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fahnzuk)
 
-# 💻Tech Stack
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  	
-
-## 🎧 Spotify - Recently Played
+# 🎧 Spotify - Recently Played
 <div align="center">
   <a href="https://open.spotify.com/user/xdd66kgxgvpcy162as8owo5rn">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=xdd66kgxgvpcy162as8owo5rn&count=5" alt="Spotify Recently Played" width="400"/>
   </a>
 </div>
 
+# 💻 Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dart,js,php,ts,threejs,react,flutter,mysql&perline=8&theme=dark" />
+  </a>
+</p>
 
-## 🏆GitHub Trophies
+## 🎧 Music Profile
+
+<div align="center">
+
+### last jammed out to
+<a href="https://open.spotify.com/user/xdd66kgxgvpcy162as8owo5rn">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=xdd66kgxgvpcy162as8owo5rn&count=1" alt="Spotify Recently Played" width="400"/>
+</a>
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center"><b>all time favorites</b></td>
+    <td align="center"><b>monthly favorites</b></td>
+    <td align="center"><b>current favorites</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/id/3/3a/Hindia_-_Menari_dengan_Bayangan.jpg" width="60" align="left"/>
+      <b>Evaluasi</b><br/>Hindia
+    </td>
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/id/5/5a/Nadin_Amizah_-_Selamat_Ulang_Tahun.png" width="60" align="left"/>
+      <b>Bertaut</b><br/>Nadin Amizah
+    </td>
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/en/2/23/Tulus_-_Monokrom.jpeg" width="60" align="left"/>
+      <b>Monokrom</b><br/>Tulus
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/en/b/b3/Pamungkas_-_Walk_The_Talk.jpeg" width="60" align="left"/>
+      <b>To The Bone</b><br/>Pamungkas
+    </td>
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/en/d/df/Sheila_on_7_-_Kisah_Klasik_Untuk_Masa_Depan.jpg" width="60" align="left"/>
+      <b>Sebuah Kisah Klasik</b><br/>Sheila On 7
+    </td>
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/en/8/87/Kunto_Aji_-_Mantra_Mantra.jpeg" width="60" align="left"/>
+      <b>Rehat</b><br/>Kunto Aji
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+## 🏆 GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Gilbertt1214&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
+## 🐍 Contribution Snake
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gilbertt1214/Gilbertt1214/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gilbertt1214/Gilbertt1214/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gilbertt1214/Gilbertt1214/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Gilbertt1214&icon=0&color=0)](https://visitcount.itsvg.in)
